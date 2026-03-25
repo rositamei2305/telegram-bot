@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, filters, ContextTypes
 
-TOKEN = "8669248066:AAHASeirCyS7px8uabDIUrg-lYhusoDzlJY"
+TOKEN = os.getenv(8669248066:AAGcsDAPo51FQ_kG9Q6nyNskNSVTxWSSH68)
 
 AUTO_MESSAGE = """Hiện tại kênh tele của Mây 𝐜𝐢̉ 𝐭𝐢𝐞̂́𝐩 𝐧𝐡𝐚̣̂𝐧 𝐭𝐡𝐨̂𝐧𝐠 𝐭𝐢𝐧 𝐥𝐚̀𝐦 𝐦𝐢𝐱𝐬𝐞𝐭 𝐭𝐡𝐞𝐨 𝐲𝐞̂𝐮 𝐜𝐚̂̀𝐮, mọi liên hệ không nhằm mục đích giao dịch đặt nhạc sẽ chưa thể 
 phản hồi ngay bây giờ.
